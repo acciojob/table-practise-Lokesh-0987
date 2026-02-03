@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+/* your code */
+table {
+	background-color: yellow;
+	border: 1px solid black;
+	width: 100%; 
+}
+
+th, td {
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+thead th {
+  font-weight: bold;
+}
+
+
+
